@@ -4,7 +4,7 @@
 
 ![screenshot]
 
-This is a simple private chat application prototype that allows users to chat privately with other online users available on the platform. 
+This is a simple private chat application prototype with limited functionalities, that allows users to chat privately with other online users available on the platform. 
 
 ### Build With
 ![react-shield] ![node-shield] ![socket.io-shield]
