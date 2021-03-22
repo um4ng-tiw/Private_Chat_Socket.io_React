@@ -41,7 +41,7 @@ Make sure you have Node.js installed on your system to run this project.
   ```
 
 ## Usage
-
+![chat-demo]
 
 
 ## Contributing
@@ -66,3 +66,4 @@ Contributions are what make the open source community such an amazing place to b
 [linkedin-shield]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
 [linkedin]:https://www.linkedin.com/in/umang-tiwari-bb9781193/
 [instagram]:https://www.instagram.com/oxy.moronguy/
+[chat-demo]:./chat_demo.gif
