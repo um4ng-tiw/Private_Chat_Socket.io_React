@@ -44,6 +44,9 @@ Make sure you have Node.js installed on your system to run this project.
 ![chat-demo]
 
 
+The application is more implementation focused and can be used as a foundation for your own chat system. 
+
+
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
