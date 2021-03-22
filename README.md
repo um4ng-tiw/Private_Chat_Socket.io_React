@@ -4,7 +4,7 @@
 
 ![screenshot]
 
-This is a simple private chat application prototype that allows users to chat with other online users available on the platform. 
+This is a simple private chat application prototype that allows users to chat privately with other online users available on the platform. 
 
 ### Build With
 ![react-shield] ![node-shield] ![socket.io-shield]
@@ -39,6 +39,8 @@ Make sure you have Node.js installed on your system to run this project.
   ```sh
   npm run start
   ```
+
+## Usage
 
 
 
